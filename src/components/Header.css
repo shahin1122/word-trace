@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+
+
+.parent-div h1{
+    font-family: 'Graduate', cursive;
+    font-size: 1.8rem;
+    letter-spacing: 1em;
+}
